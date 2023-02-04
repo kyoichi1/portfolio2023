@@ -1,4 +1,5 @@
 import "tailwindcss/tailwind.css";
+
 export default function About() {
   return (
     <>
